@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NFCLights</string>
+    <string name="IPBox">Enter IP Address Here</string>
+</resources>
